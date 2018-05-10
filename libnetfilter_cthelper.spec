@@ -4,7 +4,7 @@
 #
 Name     : libnetfilter_cthelper
 Version  : 1.0.0
-Release  : 7
+Release  : 8
 URL      : http://www.netfilter.org/projects/libnetfilter_cthelper/files/libnetfilter_cthelper-1.0.0.tar.bz2
 Source0  : http://www.netfilter.org/projects/libnetfilter_cthelper/files/libnetfilter_cthelper-1.0.0.tar.bz2
 Summary  : Netfilter user-space helper infrastructure library
